@@ -92,7 +92,7 @@ LIST can provide some limited comparator data to allow the customer to see how t
 _Example 1: GP Cluster requests data to compare their own cluster against other clusters in the NHS Board or HSCP_
 
 ```{r, echo=FALSE, out.width="100%"}
-knitr::include_graphics(rep("imgs/comparator-ex1.png", 1))
+knitr::include_graphics("imgs/comparator-ex1.png")
 ```
 
 Note: LIST must ensure that there are a sufficient number of comparators that no intelligence can be gained about others. 
