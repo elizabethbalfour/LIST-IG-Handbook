@@ -37,16 +37,7 @@ To contact the LIST IG Group with a query, you can either:
 
 1. Make a post in the [LIST IG teams channel](https://teams.microsoft.com/l/channel/19%3A9a435ecaaa6c4ca8b6a8313223116114%40thread.tacv2/Information%20Governance?groupId=3e609872-2e51-443b-a14c-e1216a3636d0&tenantId=10efe0bd-a030-4bca-809c-b5e6745e499a), or
 
-1. Get in touch with individual members of the IG Group directly.
-
-**LIST IG Group Members**
-
-- David Readhead
-- Craig Fraser
-- Liz Balfour
-- Aiden Hannah
-- Andrew Massie
-- Helen Tierney-Kirk
+1. Get in touch with individual members of the IG Group directly. You can find the list of current Group members in the sidebar of the LIST IG teams channel.
 
 _If you're interested in joining the Group, or learning more about what that would entail, we would encourage you to get in touch with us. New members are always welcome!_
 
