@@ -7,3 +7,7 @@ training-courses
 list-ig-framework
 our-customers
 comparator-data
+list-ig-approvals-framework
+before-starting-a-project
+about-the-framework
+unpublished-data
