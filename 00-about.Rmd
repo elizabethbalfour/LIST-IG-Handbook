@@ -55,4 +55,4 @@ The following training courses are mandatory and **must have been completed with
 
 The LIST IG team will routinely update the training that LIST staff have completed and will remind staff to ensure this is up-to-date. 
 
-Further details can be found on [The Spark](http://spark.publichealthscotland.org/corporate-guidance/information-governance/data-protection/training-and-guidance/)
+Further details can be found on [The Spark](http://spark.publichealthscotland.org/corporate-guidance/information-governance/data-protection/training-and-guidance/) 
