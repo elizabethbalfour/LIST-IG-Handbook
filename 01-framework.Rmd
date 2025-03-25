@@ -8,17 +8,21 @@ Before starting any project, there are a number of questions we should ask ourse
 
     - Determining your primary customer or contact for your project will be done during your initial meeting with the customer e.g. GP cluster or practice quality lead; HSCP service manager. 
 
+
 1. Why are they asking for this data/information? 
 
     - Define clear aim(s) and objective(s) of the project in collaboration with your customer. 
+
 
 1. Where is the data coming from?  
 
     - Map desired outcomes and variables to available data sources (local and/or national). 
 
+
 1. Who owns that data?  
 
     - Identify data owner(s) and whether you need to gain permission to access that data. 
+
 
 1. How do I access the data required? 
 
@@ -27,19 +31,23 @@ Before starting any project, there are a number of questions we should ask ourse
     - Local data: Please discuss this with your local contacts 
     - Other: Third sector or partner organisations 
 
+
 1. Am I using the minimum amount of variables/information required to do this project? 
 
     - Review variables / information required by your customer. 
     - _Data Minimisation is a key principle of Data Protection Law, meaning personal data should only be used when necessary_
 
+
 1. Do I require patient-identifiable data? 
 
     - If you do require patient-identifiable data for your analysis, the best practice is to produce aggregate data outputs for the customer and use this to focus discussion on further details. 
+
 
 1. Who is getting access to the data once I am finished with my analysis? 
 
     - Identify who will have access to the data and what level of information / data is therefore appropriate to present in your outputs e.g. aggregated vs. person identifiable data.  
     - Ask yourself “Do they have a genuine need to see all of the data I intend to give them?” 
+
 
 1. Is there a way to provide this data that would not require disclosure of personally identifiable information? 
 
@@ -154,11 +162,29 @@ Providing this information would be providing data for HSCP B. The local authori
 
 Sometimes our customers may ask for the release of unpublished data for all HSCPs / NHS Boards in Scotland, and not just their own. The default approach will be for LIST to _provide the HSCP / HB with data for their own area only_. 
 
-For any comparative data, we will not provide any named HSCPs / HBs outwith their own area, we will provide the Scotland average, their own HSCP / HB’s position when ranked against the others e.g. their HSCP rate is ranked X / 31 (and also provide any required caveats re how feasible it is to compare areas in this way). 
+For any comparative data, **we will not provide any named HSCPs / NHS Boards outside their own area**. Instead, we can provide:
 
+- The Scotland average
 
+- Their own HSCP / HB’s position when ranked against the others 
 
+    - _e.g. their HSCP rate is ranked X / 31 (and also provide any required caveats re how feasible it is to compare areas in this way)_ 
 
+_What if the customer gets in touch to request that they need an output for all HSCPS / NHS Boards outside their own area?_
+
+1 - LIST will seek permission from the PHS national team that we can release this data.  LIST can only provide this output if we have expressed permission from the national team in PHS that this data can be provided.  
+
+1 - The output will be released as Management Information. Please ensure this is clearly noted on the output using the standard text. 
+
+1 - LIST need to inform the PHS national team of the following advice from the Statistical Governance team: 
+
+"The Statistical Governance Team have advised that from the Information Request Protocol, _if this is the first time the information has been released, it should be sent for preview 48 hours before it is released to the customer as follows:_ 
+
+    - Analysis relating to a specific health board: email the PHS preview mailbox and request that the IR is sent to the Chief Executive and Communications Manager at that specific board.
+
+    - Analysis at national level: email the IR to your policy contact at the Scottish Government. If you are unsure of who to send it to, see the Contact Details section for a generic mailbox to use."
+
+## Obtaining Senior Approval
 
 
 
